@@ -18,5 +18,5 @@
         unlocks.forEach(unlock => {
             unlock.remove();
         });
-    }, 2000));
+    }, 1000));
 })();
